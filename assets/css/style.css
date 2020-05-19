@@ -204,7 +204,8 @@ h1, h2, h3, h4, h5, h6 {
 #hero {
   width: 100%;
   height: 100vh;
-  background: url("../img/Sanyam_Background.jpg") top center;
+  background: url("https://raw.githubusercontent.com/Sanyamdhawan99/sanyam-dhawan.github.io/master/assets/css/Sanyam_Background.JPG") top center;
+  filter: grayscale(50%);
   background-size: cover;
 }
 
